@@ -1,0 +1,50 @@
+📊 Customer Churn Analysis Dashboard (Power BI)
+📌 Project Overview
+
+This project focuses on analyzing customer churn behavior using Power BI, SQL, and Excel. The goal is to identify why customers leave a telecom service and highlight high-risk segments for better retention strategies. The dashboard transforms raw customer data into actionable business insights.
+
+🛠 Tools & Technologies
+
+Power BI (DAX, Data Modeling, Drillthrough, Bookmarks)
+
+SQL (Joins, Aggregations, KPI Analysis)
+
+Excel (Data Cleaning, Preparation)
+
+📈 Key Metrics
+
+Total Customers
+
+Churned Customers
+
+Churn Rate
+
+Retention Rate
+
+Tenure Groups
+
+Monthly Charges Impact
+
+📊 Dashboard Pages
+
+Overview: High-level churn KPIs and contract impact.
+
+Customer Behavior: Service usage, payment method, and tenure analysis.
+
+Risk Analysis: Identification of high-risk customers using charges and tenure patterns.
+
+Customer Detail (Drillthrough): Segment-level investigation.
+
+🔍 Key Insights
+
+Month-to-month contracts show higher churn.
+
+Customers with higher monthly charges are more likely to leave.
+
+New customers (low tenure) have greater churn risk.
+
+Fiber optic users churn more compared to other services.
+
+🎯 Business Value
+
+The dashboard helps business users understand churn drivers, segment customers effectively, and design targeted retention strategies.
